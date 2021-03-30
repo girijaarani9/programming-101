@@ -1,0 +1,12 @@
+target/
+
+# IntelliJ-specific
+.idea
+*.iws
+*.iml
+*.ipr
+
+.DS_Store
+/bin/
+
+.log
